@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-number = int(number)  # convert to integer if it comes as string
+number = 98
 print(f"{number} Battery street")
